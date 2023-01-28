@@ -32,7 +32,7 @@ function App() {
           className="h-80 top-0  "
         />
       </div>
-      <h1 className="text-3xl text-white mt-8 lg:text-4xl text-center ">
+      <h1 className="text-3xl text-white mt-6 lg:text-4xl text-center ">
         IP Adress Tracker
       </h1>
 

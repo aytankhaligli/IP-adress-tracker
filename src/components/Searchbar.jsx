@@ -15,12 +15,12 @@ export default function Searchbar({ setIpAddress }) {
   return (
     <div>
       <form
-        className="flex justify-center mx-10  mt-8 overflow-hidden rounded-2xl lg:max-w-2xl lg:mx-auto cursor-pointer z-50"
+        className="flex justify-center mx-4  mt-4 overflow-hidden rounded-2xl lg:max-w-2xl lg:mx-auto cursor-pointer z-50"
         onSubmit={(e) => search(e)}
       >
         <input
           type="text"
-          className="p-5 w-full text-xl focus:outline-none"
+          className="p-5 w-full text-md lg:text-xl focus:outline-none"
           placeholder="Search for any API Address"
           value={input}
           onChange={(e) => handleChange(e)}
