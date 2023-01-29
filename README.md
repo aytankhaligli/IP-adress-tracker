@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/ip-address-tracker-SG_pkiea92)
-- Live Site URL: [Add live site URL here](https://ipaddresstracker-aytan.netlify.app/)
+- Solution URL: [(https://www.frontendmentor.io/solutions/ip-address-tracker-SG_pkiea92)]
+- Live Site URL: [(https://ipaddresstracker-aytan.netlify.app/)]
 
 ## My process
 
