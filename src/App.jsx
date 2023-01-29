@@ -33,7 +33,7 @@ function App() {
         />
       </div>
       <h1 className="text-3xl text-white mt-6 lg:text-4xl text-center ">
-        IP Adress Tracker
+        IP Address Tracker
       </h1>
 
       <Searchbar ipAddress={ipAddress} setIpAddress={setIpAddress} />
